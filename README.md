@@ -2,6 +2,7 @@ Problem Statement:The goal of this project is to predict customer churn rate for
 
 Content:
 This dataset contains information about:
+
 •	Customers who left within the last month – the column is called Churn
 
 •	Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
