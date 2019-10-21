@@ -1,4 +1,5 @@
 Problem Statement:The goal of this project is to predict customer churn rate for a Telecom company using Data Analysis and Machine Learning techniques. With these predictions, a company can set up a targeted strategy for customer retention.
+
 Content:
 This dataset contains information about:
 •	Customers who left within the last month – the column is called Churn
@@ -9,5 +10,7 @@ This dataset contains information about:
 Modelling Techniques Used:
 
 •	Logistic Regression
+
 •	Decision Tree
+
 •	Support Vector Machines
